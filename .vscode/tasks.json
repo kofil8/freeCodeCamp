@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "/Volumes/Mackbook Pro/Programming/PROGRAMMING/Ruby/freeCodeCamp",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
